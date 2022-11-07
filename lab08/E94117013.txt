@@ -1,5 +1,7 @@
 home
 E94117013
+introduction_to_computers_labs
+lab08
 
 .xsession-errors
 Music
@@ -18,7 +20,6 @@ Pictures
 Downloads
 introduction_to_computers_labs2
 .bash_history
-lab08.py
 Bookshelf
 .Xauthority
 .ssh
